@@ -134,8 +134,6 @@ public class Player
 
     public void levelUp()
     {
-        // level 2
-        // 201
         int currentLevel = getLevel();
         int currentXp = getXp();
         int correctLevel = currentXp/NEEDED_POINTS_TO_LEVEL_UP + 1;

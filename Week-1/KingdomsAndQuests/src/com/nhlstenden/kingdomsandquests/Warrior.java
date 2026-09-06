@@ -14,4 +14,3 @@ public class Warrior extends Character
         setAttackPower(attackPower + ATTACK_POWER_INCREASE);
     }
 }
-
